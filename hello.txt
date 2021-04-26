@@ -1,2 +1,2 @@
 hello world
-version - 1 hot-fix
+version - 1 hot-fix hot-fix  test
